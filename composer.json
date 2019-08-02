@@ -1,0 +1,30 @@
+{
+    "name": "royvoetman/laravel-gitlab-storage",
+    "description": "A Gitlab Storage driver for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roy Voetman",
+            "email": "royvoetman@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "illuminate/support": "^5.1|^5.2|^5.3",
+        "illuminate/filesystem": "^5.1|^5.2|^5.3",
+        "royvoetman/flysystem-gitlab-storage": "^0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoyVoetman\\LaravelGitlabStorage\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RoyVoetman\\LaravelGitlabStorage\\GitlabStorageServiceProvider"
+            ]
+        }
+    }
+}
