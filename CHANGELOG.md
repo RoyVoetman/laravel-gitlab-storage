@@ -13,3 +13,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 
 ### 1.0.2 - 2019-08-03
 - Updated composer json to use v1 instead of v0.0.1 of the flysystem gitlab adapter
+
+### 1.0.3 - 2019-08-03
+- Fixing packagist versioning issue.
