@@ -7,7 +7,7 @@ use League\Flysystem\Filesystem;
 use RoyVoetman\FlysystemGitlab\Client;
 use RoyVoetman\FlysystemGitlab\GitlabAdapter;
 
-class GitlabServiceProvider {
+class GitlabStorageServiceProvider {
     
     /**
      * Perform post-registration booting of services.
