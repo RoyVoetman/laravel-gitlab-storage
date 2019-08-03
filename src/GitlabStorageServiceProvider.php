@@ -3,11 +3,13 @@
 namespace RoyVoetman\LaravelGitlabStorage;
 
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\ServiceProvider;
 use League\Flysystem\Filesystem;
 use RoyVoetman\FlysystemGitlab\Client;
 use RoyVoetman\FlysystemGitlab\GitlabAdapter;
 
-class GitlabStorageServiceProvider {
+class GitlabStorageServiceProvider extends ServiceProvider
+{
     
     /**
      * Perform post-registration booting of services.
