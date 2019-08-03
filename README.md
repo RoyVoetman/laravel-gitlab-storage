@@ -57,9 +57,6 @@ $disk->put('images/', $fileContents);
 // check if a file exists
 $exists = $disk->exists('file.jpg');
 
-// get file modification date
-$time = $disk->lastModified('file1.jpg');
-
 // copy a file
 $disk->copy('old/file1.jpg', 'new/file1.jpg');
 
