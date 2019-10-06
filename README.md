@@ -63,5 +63,5 @@ $disk->copy('old/file1.jpg', 'new/file1.jpg');
 // move a file
 $disk->move('old/file1.jpg', 'new/file1.jpg');
 
-// See https://laravel.com/docs/filesystem for full list of available functionality
+// See https://laravel.com/docs/filesystem for a full list of all the available functionality
 ```
