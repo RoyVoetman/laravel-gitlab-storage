@@ -13,17 +13,6 @@ This package is a wrapper bridging [Flysystem-Gitlab-storage](https://github.com
 composer require royvoetman/laravel-gitlab-storage
 ```
 
-If you are on Laravel 5.4 or earlier, then register the service provider in app.php
-
-```php
-'providers' => [
-    // ...
-    RoyVoetman\\LaravelGitlabStorage\\GitlabStorageServiceProvider::class,
-]
-```
-
-If you are on Laravel 5.5 or higher, composer will have registered the provider automatically for you.
-
 Add a new disk to your filesystems.php config
 
 ```php
