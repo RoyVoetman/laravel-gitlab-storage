@@ -3,7 +3,7 @@ A Gitlab Storage driver for Laravel
 
 [![Latest Version](https://img.shields.io/packagist/v/royvoetman/laravel-gitlab-storage.svg?style=flat-square)](https://packagist.org/packages/royvoetman/laravel-gitlab-storage)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/royvoetman/Laravel-Gitlab-storage.svg?style=flat-square)](https://packagist.org/packages/royvoetman/Laravel-Gitlab-storage)
+[![Total Downloads](https://img.shields.io/packagist/dt/royvoetman/laravel-gitlab-storage.svg?style=flat-square)](https://packagist.org/packages/royvoetman/laravel-gitlab-storage)
 
 # Installation
 
