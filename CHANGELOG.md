@@ -19,3 +19,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 
 ### 1.0.4 - 2019-08-03
 - ServiceProvider now extends Laravel's abstract ServiceProvider.
+
+### 1.0.5 - 2020-12-06
+- Added php 8 support
