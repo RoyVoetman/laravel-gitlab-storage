@@ -1,4 +1,5 @@
-# Laravel Gitlab storage
+<img src="https://www.royvoetman.nl/images/packages/laravel-gitlab.svg" width="100%">
+
 A Gitlab Storage driver for Laravel
 
 [![Latest Version](https://img.shields.io/packagist/v/royvoetman/laravel-gitlab-storage.svg?style=flat-square)](https://packagist.org/packages/royvoetman/laravel-gitlab-storage)
