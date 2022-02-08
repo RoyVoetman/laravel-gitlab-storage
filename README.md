@@ -6,9 +6,11 @@ A Gitlab Storage driver for Laravel
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/royvoetman/laravel-gitlab-storage.svg?style=flat-square)](https://packagist.org/packages/royvoetman/laravel-gitlab-storage)
 
-## Installation
-
 This package is a wrapper bridging [Flysystem-Gitlab-storage](https://github.com/RoyVoetman/Flysystem-Gitlab-storage) into Laravel as an available storage disk.
+
+> For Laravel 8 and below [use version 1.0.9](https://github.com/RoyVoetman/laravel-gitlab-storage/tree/v1.0.9)
+
+## Installation
 
 ```bash
 composer require royvoetman/laravel-gitlab-storage

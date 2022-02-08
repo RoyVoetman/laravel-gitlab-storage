@@ -34,3 +34,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 
 ### 1.0.9 - 2020-12-06
 - Added php 8 support
+
+### 2.0.0 - 2022-02-08
+- Added laravel 9 support
