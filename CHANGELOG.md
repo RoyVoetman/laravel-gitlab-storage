@@ -39,4 +39,4 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 - Added laravel 9 support
 
 ### 2.0.1 - 2022-03-22
-- Changed order of parameters in service prodivers client constructor.
+- Changed order of parameters in service providers client constructor.
