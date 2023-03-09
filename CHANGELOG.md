@@ -40,3 +40,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 
 ### 2.0.1 - 2022-03-22
 - Changed order of parameters in service providers client constructor.
+
+### 2.0.2 - 2023-03-09
+- Resolved #5
