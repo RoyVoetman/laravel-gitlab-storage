@@ -16,7 +16,7 @@ class GitlabStorageServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Storage::extend('gitlab', function ($app, $config) {
+        Storage::extend('gitlab', function ($app, $config) {            
             $client = new Client(
                 $config[ 'project-id' ],
                 $config[ 'branch' ],
@@ -24,7 +24,7 @@ class GitlabStorageServiceProvider extends ServiceProvider
                 $config[ 'personal-access-token' ]
             );
         
-            return new Filesystem(new GitlabAdapter($client));
+            return new \Illuminate\Filesystem\FilesystemAdapter(new Filesystem(new GitlabAdapter($client)));
         });
     }
 
