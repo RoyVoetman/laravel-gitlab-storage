@@ -46,3 +46,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 
 ### 2.0.3 - 2023-06-17
 - Added laravel 10 support
+
+### 2.0.4 - 2023-06-17
+- Pull request #6 merged
