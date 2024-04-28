@@ -50,6 +50,6 @@ All notable changes to `laravel-gitlab-storage` will be documented in this file
 ### 2.0.4 - 2023-06-17
 - Pull request #6 merged
 
-- ### 2.1.0 - 2024-04-26
+### 2.1.0 - 2024-04-26
 - Moved minimum PHP version to 8.1
 - Moved minimum Laravel version to 11.x
