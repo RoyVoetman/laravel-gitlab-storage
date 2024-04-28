@@ -10,10 +10,10 @@
         }
     ],
     "require": {
-        "php": "^7.0 || ^8.0",
-        "illuminate/support": "^9.0|^10.0",
-        "illuminate/filesystem": "^9.0|^10.0",
-        "royvoetman/flysystem-gitlab-storage": "^3.0"
+        "php": "^8.1",
+        "illuminate/support": "^11.0",
+        "illuminate/filesystem": "^11.0",
+        "royvoetman/flysystem-gitlab-storage": "^3.1"
     },
     "autoload": {
         "psr-4": {
