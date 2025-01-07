@@ -1,4 +1,4 @@
-<img src="https://www.royvoetman.nl/images/packages/laravel-gitlab.svg" width="100%">
+<img src="https://www.cs-library.com/images/packages/laravel-gitlab.svg" width="100%">
 
 A Gitlab Storage driver for Laravel
 
